@@ -1,0 +1,6 @@
+github.com/ALTree/bigfloat v0.0.0-20180506151649-b176f1e721fc h1:64fnazBWLWjn4wk+hpm7gVPhl5kA0TrCzYJ4GCbw1J0=
+github.com/ALTree/bigfloat v0.0.0-20180506151649-b176f1e721fc/go.mod h1:9hy2NiNR6kJzY3N2dE/x+UQtZXiYkjTRADHpAo6p9zI=
+github.com/Tymeshift/erlang-c-go v1.0.0 h1:b7PPP1RzFpc0qWSVs0/lBphAF10iqgd+IQz722ZALpQ=
+github.com/Tymeshift/erlang-c-go v1.0.0/go.mod h1:X8gdWqK3V/2fqxewApOj0HIPFIqBSgjUMnmHhLePD74=
+github.com/Tymeshift/erlang-c-go v1.0.2 h1:T2r0RKfVdwhkx8ZTdPEb2EkB/5ctVcJi2A9kldROpQE=
+github.com/Tymeshift/erlang-c-go v1.0.2/go.mod h1:X8gdWqK3V/2fqxewApOj0HIPFIqBSgjUMnmHhLePD74=
